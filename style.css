@@ -9,7 +9,7 @@
 
 :root{
     --black:#000000;
-    --dark-grey: #1F1F1F;
+    --dark-grey: #f7bcd9;
     --grey: #333333;
     --neon-green: #f1167c;
     --white: #fff;
@@ -80,4 +80,5 @@ p{
 a:hover{
     background-color: var(--dark-blue);
     color: var(--white);
+
 
